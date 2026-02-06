@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 
 pds
 *.o
 .DS_Store
 .vscode/
+=======
+
+pds
+*.o
+.DS_Store
+.vscode/
+>>>>>>> acbbaaa (Initial commit - power digit sum assignment)
